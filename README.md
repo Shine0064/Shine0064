@@ -3,7 +3,7 @@
 <p align="center">
 I'm the kinda developer that just kinda does whatever.
 I don't really stick to anything in particular, aside from me having been avoiding front-end... for some reason, I don't quite know why.
-Lately I've been primarily using [Rust](https://rust-lang.org/) for pretty much anything, so take that how you will.
+Lately I've been primarily using <a href="https://rust-lang.org">Rust</a> a for pretty much anything, so take that how you will.
 
 Almost all of my repos are, and will stay private. Simple reason for that is embarrassment.
 </p>
